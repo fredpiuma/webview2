@@ -15,16 +15,6 @@ export default function App() {
         />
       </View>
   );
-  return (
-    <View style={styles.container}>
-      <Text>teste 2ee!</Text>
-      <StatusBar style="auto" />
-      <WebView
-          source={{ uri: 'https://instagram.lacirbacelar.com' }}
-          style={{ marginTop: 0 }}
-        />
-    </View>
-  );
 }
 
 const styles = StyleSheet.create({
