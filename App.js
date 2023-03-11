@@ -10,7 +10,7 @@ export default function App() {
   return (
     <View style={{ width: '100%', height: '100%', backgroundColor: '#000000', paddingTop: STATUSBAR_HEIGHT }}>
         <WebView
-          source={{ uri: 'https://chat.openai.com/chat' }}
+          source={{ uri: 'https://chat.openai.com/chat3' }}
           style={{ marginTop: 0 }}
         />
       </View>
