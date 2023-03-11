@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "webview2",
-    "slug": "webview2",
+    "name": "chatgpt",
+    "slug": "chatgpt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
